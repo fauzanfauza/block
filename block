@@ -29,3 +29,4 @@ i = (first + last) / 2
                               if item == a_list[i]:
                                   return ' temukan'.format(item=item)
                                   else:
+                                       if a_list[i] < item:
