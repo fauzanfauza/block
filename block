@@ -25,3 +25,4 @@ i = (first + last) / 2
                    if len(a_list) == 0:
                        return ' tidak ditemukan dalam daftar.format(item=item)
                         else:
+                            i = (pertama + terakhir) // 2
