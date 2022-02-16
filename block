@@ -7,3 +7,4 @@ item -- bilangan bulat yang Anda cari untuk posisi
 last = len(a_list) - 1
 while first <= last:
 i = (first + last) / 2
+ if a_list[i] == item:
