@@ -9,3 +9,4 @@ while first <= last:
 i = (first + last) / 2
  if a_list[i] == item:
  return ' temukan pada posisi '.format(item=item, i=i)
+ elif a_list[i] > item:
