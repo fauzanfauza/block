@@ -12,3 +12,4 @@ i = (first + last) / 2
  elif a_list[i] > item:
      last = i - 
      elif a_list[i] < item:
+         first = i + 1
