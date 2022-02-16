@@ -6,3 +6,4 @@ item -- bilangan bulat yang Anda cari untuk posisi
 """    first = 0
 last = len(a_list) - 1
 while first <= last:
+i = (first + last) / 2
