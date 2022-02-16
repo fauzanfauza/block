@@ -13,3 +13,4 @@ i = (first + last) / 2
      last = i - 
      elif a_list[i] < item:
          first = i + 1
+          else:
