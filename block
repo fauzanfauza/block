@@ -1,1 +1,3 @@
 // implementasi berulang dari pencarian biner dengan Python def binary_search (a_list, item):
+""" Melakukan pencarian biner berulang untuk menemukan posisi bilangan bulat dalam daftar yang diberikan, diurutkan.
+""" Melakukan pencarian biner berulang untuk menemukan posisi bilangan bulat dalam daftar yang diberikan, diurutkan.
