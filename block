@@ -28,3 +28,4 @@ i = (first + last) / 2
                              i = (pertama + terakhir) // 2
                               if item == a_list[i]:
                                   return ' temukan'.format(item=item)
+                                  else:
