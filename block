@@ -23,3 +23,4 @@ i = (first + last) / 2
                   """    first = 0
                   last = len(a_list) - 1
                    if len(a_list) == 0:
+                       return ' tidak ditemukan dalam daftar.format(item=item)
