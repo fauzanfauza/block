@@ -14,3 +14,4 @@ i = (first + last) / 2
      elif a_list[i] < item:
          first = i + 1
           else:
+              return ' tidak ditemukan di dalam list'.format(item=item)
