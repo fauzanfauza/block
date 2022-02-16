@@ -4,3 +4,4 @@
 a_list -- daftar bilangan bulat yang diurutkan
 item -- bilangan bulat yang Anda cari untuk posisi
 """    first = 0
+last = len(a_list) - 1
