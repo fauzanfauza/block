@@ -20,3 +20,5 @@ i = (first + last) / 2
                   """Melakukan pencarian biner rekursif dari bilangan bulat dalam daftar yang diberikan, diurutkan,.
                   a_list -- daftar bilangan bulat yang diurutkan
                   item -- bilangan bulat yang Anda cari untuk posisi
+                  """    first = 0
+                  last = len(a_list) - 1
